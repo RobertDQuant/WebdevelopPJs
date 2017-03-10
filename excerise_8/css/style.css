@@ -1,0 +1,35 @@
+*{margin: 0; padding: 0;}
+
+img {
+    float: left;
+    width: 50px;
+    margin: 10px;
+}
+
+/*div {
+    width: 100px;
+    height: 100px;
+}
+
+.one {
+    background: red;
+     float: left;
+}
+
+.two {
+    background: green;
+    float: left;
+}
+
+.three {
+    background: blue;
+    clear: left;
+    float: left;
+}
+
+.four {
+    background: purple;
+    clear: left;
+    float: left;
+}
+*/

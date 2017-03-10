@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    display: inline-block;
+    background: yellow;
+    
+}
+
+body h1:first-child{
+    
+    
+    
+}
+a { 
+    background: yellow;
+}

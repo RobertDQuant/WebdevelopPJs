@@ -1,0 +1,26 @@
+{ margin: 0;
+  padding: 0;
+    
+}
+
+body { background: #e6e6fa;
+       
+}
+
+h1 {
+    color: white;
+    border: 10px ;
+    background: #191970;
+    padding: 10px 10px;
+    margin: 20px 0px;
+}
+
+h2 {
+    color: #191970;
+    border: 10px;
+    background: #aeaed4;
+    padding: 10px 10px;
+    margin: 20px 0px;
+    
+    
+}
